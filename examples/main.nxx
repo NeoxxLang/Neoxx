@@ -1,0 +1,6 @@
+script math
+
+function main():
+    textln("Hello from Neoxx!")
+
+main()
